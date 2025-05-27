@@ -5,3 +5,4 @@ langchain-google-genai
 google-generativeai
 cassio
 PyPDF2
+cassandra-driver==3.29.1
